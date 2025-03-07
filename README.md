@@ -1,4 +1,4 @@
-# 🛡️ MD. Joynal Abedin Hamim | Ethical Hacker & Cybersecurity Specialist
+#  MD. Joynal Abedin Hamim | Ethical Hacker & Cybersecurity Specialist
 
 ## 🔍 About Me
 I am an **Ethical Hacker & Cybersecurity Enthusiast**, specializing in **penetration testing, vulnerability assessments, and digital security**. My expertise lies in identifying security flaws and fortifying systems against cyber threats. With hands-on experience in **network security, web application security, and exploit development**, I am dedicated to protecting digital assets.
@@ -21,7 +21,7 @@ I am an **Ethical Hacker & Cybersecurity Enthusiast**, specializing in **penetra
 ## 📜 Certifications & Training
 - **Certified Ethical Hacker (CEH) – EC-Council** *(In Progress)*
 - **CompTIA Security+** *(Learning)*
-- **CompTIA A+ (220-1101) – Cybrary Certified (9 CEUs/CPES)*
+- **CompTIA A+ (220-1101) – Cybrary Certified (9 CEUs/CPES)**
 - **Advanced Web Penetration Testing** *(Ongoing)*
 - **Bug Bounty & Web Security Training**
 
