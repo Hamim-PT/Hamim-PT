@@ -1,6 +1,6 @@
 # 🛡️ MD. Joynal Abedin Hamim | Ethical Hacker & Cybersecurity Specialist
 
-![Profile Banner](https://your-image-link.com)  
+![Profile Banner](https://drive.google.com/file/d/1frNkfDn0GlrG6sdGLET2Tm3oATKRPqNr/view?usp=sharing)  
 
 ## 🔍 About Me
 I am an **Ethical Hacker & Cybersecurity Enthusiast**, specializing in **penetration testing, vulnerability assessments, and digital security**. My expertise lies in identifying security flaws and fortifying systems against cyber threats. With hands-on experience in **network security, web application security, and exploit development**, I am dedicated to protecting digital assets.
